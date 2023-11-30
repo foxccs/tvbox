@@ -23,7 +23,16 @@
       "api": "./js/drpy2.min.js",
       "ext": "./js/好趣网.js"
     },
-
+    {
+      "key": "吾爱经典",
+      "name": "🎷 吾爱音乐 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/吾爱经典.json"
+    },
     {
        "key": "csp_ttkx",
        "name": "网盘",
