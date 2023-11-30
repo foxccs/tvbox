@@ -87,7 +87,7 @@
        "key": "csp_ttkx",
        "name": "网盘",
        "type": 3,
-       "jar": "./jar/fm1004.jar",
+       "jar": "./jar/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf",
        "api": "csp_Wogg",
        "searchable": 1,
        "changeable": 0,
