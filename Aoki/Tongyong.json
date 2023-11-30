@@ -7,7 +7,7 @@
 
     {
       "key": "py_cctv",
-      "name": "🦢青木整理综合",
+      "name": "🦢┃青木整理┃综合",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -15,10 +15,10 @@
       "filterable": 0,
       "ext": "./lib/py_cctv.py"
     },
-    {"key": "直播转点播","name": "📺︎电视点播","type": 3,"api": "./js/zbzdb.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./txt/直播.txt"},
+    {"key": "直播转点播","name": "点播","type": 3,"api": "./js/zbzdb.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./txt/直播.txt"},
     {
       "key": "好趣网",
-      "name": "📺┃电视┃频道",
+      "name": "频道",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/好趣网.js"
