@@ -15,14 +15,6 @@
       "filterable": 0,
       "ext": "./lib/py_cctv.py"
     },
-    {"key": "直播转点播","name": "点播","type": 3,"api": "./js/zbzdb.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./txt/直播.txt"},
-    {
-      "key": "好趣网",
-      "name": "频道",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/好趣网.js"
-    },
     {
       "key": "吾爱经典",
       "name": "音乐 ",
@@ -32,6 +24,14 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./json/吾爱经典.json"
+    },
+    {"key": "直播转点播","name": "点播","type": 3,"api": "./js/zbzdb.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./txt/直播.txt"},
+    {
+      "key": "好趣网",
+      "name": "频道",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/好趣网.js"
     },
     {
        "key": "csp_ttkx",
