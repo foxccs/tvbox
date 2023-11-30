@@ -2,11 +2,11 @@
     "urls": [
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/tvbox/main/Aoki/通用.json",
-            "name": "🍃青木🌷主线"
+            "name": "🍃青木🌷主线A"
         },
        {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/tvbox/main/Aoki/Tongyong.json",
-            "name": "🍃青木🌷主线A"
+            "name": "🍃青木🌷主线B"
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/tvbox/main/Aoki/娱乐.json",
@@ -19,6 +19,6 @@
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/foxccs/tvbox/main/Aoki/教育.json",
             "name": "🍃青木🌷教育"
-        }, 
+        }
     ]
 }
