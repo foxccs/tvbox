@@ -118,7 +118,8 @@
       "api": "./js/drpy2.min.js",
       "ext": "./js/mangguo.js"
     },
-    {"key":"爱奇异","name":"🎦爱奇艺(官)","type":3,"api":"./js/drpy2.min.js","ext":"./js/aiqiyi.js"},
+    {"key":"爱奇异","name":"爱奇艺(官)","type":3,"api":"./js/drpy2.min.js","ext":"./js/aiqiyi.js"},
+    {"key":"360影视","name":"360影视(官)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 
     {
