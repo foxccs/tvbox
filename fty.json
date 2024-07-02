@@ -60,6 +60,46 @@
       "filterable": 1,
       "ext": "./json/玩偶哥哥.json"
     },
+    {
+      "key": "py_cctv",
+      "name": " cctv┃综合 ",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/py_cctv.py"
+    },
+    {
+      "key": "m1905",
+      "name": " cctv┃电影 ",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/m1905.py"
+    },
+    {
+      "key": "cctv",
+      "name": " cctv┃央视 ",
+      "type": 3,
+      "jar": "./jar/cctv.jar",
+      "api": "csp_CCTV",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "./lib/央视大全.json"
+    },
+    {
+      "key": "1cctv",
+      "name": " cctv┃大全 ",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/cctv.py"
+    },
 
 
     {
