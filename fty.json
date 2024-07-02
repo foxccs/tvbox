@@ -118,6 +118,7 @@
       "api": "./js/drpy2.min.js",
       "ext": "./js/mangguo.js"
     },
+    {"key":"爱奇异","name":"🎦爱奇艺(官)","type":3,"api":"./js/drpy2.min.js","ext":"./js/aiqiyi.js"},
 
 
     {
