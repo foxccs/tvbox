@@ -190,7 +190,86 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
-
+    {
+      "key": "csp_XYQHiker_兔小贝",
+      "name": "兔小贝(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/兔小贝.json"
+    },
+    {
+      "key": "csp_XYQHiker_兔小贝2",
+      "name": "兔小贝2(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/兔小贝2.json"
+    },
+    {
+      "key": "csp_XYQHiker_播视童趣",
+      "name": "播视童趣(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/播视童趣.json"
+    },
+    {
+      "key": "csp_Bili幼儿",
+      "name": "哔哩幼儿",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/幼儿乐园.json"
+    },
+    {
+      "key": "csp_Bili少儿",
+      "name": "哔哩少儿",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/少儿教育.json"
+    },
+    {
+      "key": "csp_Bili小学",
+      "name": "哔哩小学",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/小学课堂.json"
+    },
+    {
+      "key": "csp_Bili初中",
+      "name": "哔哩初中",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/初中课堂.json"
+    },
+    {
+      "key": "csp_Bili高中",
+      "name": "哔哩高中",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/高中课堂.json"
+    },
     {
       "key": "fan",
       "name": "导航 www.aoki.fun",
