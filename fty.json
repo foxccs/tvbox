@@ -81,16 +81,6 @@
       "ext": "./lib/m1905.py"
     },
     {
-      "key": "cctv",
-      "name": " cctv┃央视 ",
-      "type": 3,
-      "jar": "./jar/cctv.jar",
-      "api": "csp_CCTV",
-      "searchable": 0,
-      "filterable": 0,
-      "ext": "./lib/央视大全.json"
-    },
-    {
       "key": "1cctv",
       "name": " cctv┃大全 ",
       "type": 3,
@@ -99,6 +89,34 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/cctv.py"
+    },
+    {
+      "key": "腾讯",
+      "name": " 腾讯┃官源 ",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/tengxun.js"
+    },
+    {
+      "key": "drpy_js_优酷1",
+      "name": " 优酷┃官源 ",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/youku.js"
+    },
+    {
+      "key": "搜狗2",
+      "name": " 搜狗┃官源 ",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/caigou.js"
+    },
+    {
+      "key": "芒果",
+      "name": " 芒果┃官源 ",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/mangguo.js"
     },
 
 
